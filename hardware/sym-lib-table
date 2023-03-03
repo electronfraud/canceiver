@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "canceiver")(type "KiCad")(uri "${KIPRJMOD}/canceiver.kicad_sym")(options "")(descr ""))
+)
