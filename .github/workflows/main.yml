@@ -1,7 +1,7 @@
 on:
   push:
     paths:
-      - **.kicad_sch
+      - '**.kicad_sch'
 
 jobs:
   plot:
